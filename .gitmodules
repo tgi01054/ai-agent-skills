@@ -25,3 +25,6 @@
 [submodule "vendor/compound-engineering-plugin"]
 	path = vendor/compound-engineering-plugin
 	url = https://github.com/EveryInc/compound-engineering-plugin.git
+[submodule "vendor/security-audit-skill"]
+	path = vendor/security-audit-skill
+	url = https://github.com/cloudflare/security-audit-skill.git

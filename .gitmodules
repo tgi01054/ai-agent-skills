@@ -1,0 +1,27 @@
+[submodule "vendor/superpowers"]
+	path = vendor/superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "vendor/gstack"]
+	path = vendor/gstack
+	url = https://github.com/garrytan/gstack.git
+[submodule "vendor/mattpocock-skills"]
+	path = vendor/mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+[submodule "vendor/addyosmani-agent-skills"]
+	path = vendor/addyosmani-agent-skills
+	url = https://github.com/addyosmani/agent-skills.git
+[submodule "vendor/cursor-plugins"]
+	path = vendor/cursor-plugins
+	url = https://github.com/cursor/plugins.git
+[submodule "vendor/claude-code"]
+	path = vendor/claude-code
+	url = https://github.com/anthropics/claude-code.git
+[submodule "vendor/spec-kit"]
+	path = vendor/spec-kit
+	url = https://github.com/github/spec-kit.git
+[submodule "vendor/openspec"]
+	path = vendor/openspec
+	url = https://github.com/Fission-AI/OpenSpec.git
+[submodule "vendor/compound-engineering-plugin"]
+	path = vendor/compound-engineering-plugin
+	url = https://github.com/EveryInc/compound-engineering-plugin.git
